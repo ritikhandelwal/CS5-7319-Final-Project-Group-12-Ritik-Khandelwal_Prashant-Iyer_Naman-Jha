@@ -22,7 +22,7 @@ After submission, the items will be remove from the current cart and the site ad
     * Item_List : Which list the name of article and associate it with the price list
     * Cart_List : To allow users to add and remove items to their cart
     * Order : To see the orders placed
-* Adding Items: Using Django Admin, site administrators (restaurant owners) are able to add, update, and remove items on the menu. All of the items from the Pinnochio’s menu were also added into the database running Python commands in Django’s shell (import.py file).
+* Adding Items: Using Django Admin, site administrators (restaurant owners) are able to add, update, and remove items on the menu. All of the items from the menu were also added into the database running Python commands in Django’s shell (import.py file).
 * Registration, Login, Logout: Site users (customers) are able to register for the web application with a username, password, first name, last name, and email address. Customers can then log in and log out of the website.
 * Shopping Cart: Once logged in, users see a representation of the restaurant’s menu, where they can add items (along with toppings or extras, if appropriate) to their virtual “shopping cart.” The contents of the shopping is saved even if a user closes the window, or logs out and logs back in again.
 * Placing an Order: Once there is at least one item in a user’s shopping cart, users can place an order.
