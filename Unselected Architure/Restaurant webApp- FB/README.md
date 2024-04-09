@@ -1,4 +1,4 @@
-# Online Restaurant WebApp: Flameurgers
+# Online Restaurant WebApp: FlameBurgers
 
 The goal of this project is to build an web application using Django for handling a restaurant’s online orders. Users will be able to browse the restaurant’s menu, add items to their cart, and submit their orders. Meanwhile, the restaurant owners will be able to add and update menu items, and view orders that have been placed.
 
